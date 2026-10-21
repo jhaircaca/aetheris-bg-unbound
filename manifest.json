@@ -1,0 +1,13 @@
+{
+  "id": "aetheris-bg-unbound-community-port",
+  "name": "Aetheris BG — Unbound Port",
+  "description": "Adaptación no oficial a Unbound de Aetheris BG por AsterionVT. Fondo nocturno, violeta, texto lavanda.",
+  "authors": [
+    {
+      "name": "AsterionVT (diseño original)",
+      "id": "183251375193456641"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "bundle.json"
+}

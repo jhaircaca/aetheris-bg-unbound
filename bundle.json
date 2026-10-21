@@ -1,0 +1,174 @@
+{
+  "type": "darker",
+  "semantic": {
+    "BACKGROUND_ACCENT": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.78
+    },
+    "BACKGROUND_MOBILE_PRIMARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.8
+    },
+    "BACKGROUND_MOBILE_SECONDARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.72
+    },
+    "BACKGROUND_SECONDARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.78
+    },
+    "BACKGROUND_SECONDARY_ALT": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.75
+    },
+    "BACKGROUND_MODIFIER_ACTIVE": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.62
+    },
+    "BACKGROUND_MODIFIER_ACCENT": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.36
+    },
+    "BG_BASE_TERTIARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.78
+    },
+    "BACKGROUND_FLOATING": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.96
+    },
+    "BG_MOD_STRONG": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.55
+    },
+    "BACKGROUND_PRIMARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.78
+    },
+    "BG_BASE_PRIMARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.78
+    },
+    "BG_BASE_SECONDARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.75
+    },
+    "BACKGROUND_TERTIARY": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.83
+    },
+    "BACKGROUND_MODIFIER_HOVER": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.47
+    },
+    "BACKGROUND_MODIFIER_SELECTED": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.6
+    },
+    "CHANNELTEXTAREA_BACKGROUND": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.88
+    },
+    "MODAL_BACKGROUND": {
+      "type": "color",
+      "value": "#080228",
+      "opacity": 0.96
+    },
+    "ANDROID_RIPPLE": {
+      "type": "color",
+      "value": "#53438a"
+    },
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": {
+      "type": "color",
+      "value": "#53438a"
+    },
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": {
+      "type": "color",
+      "value": "#12153F"
+    },
+    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": {
+      "type": "color",
+      "value": "#191830"
+    },
+    "REDESIGN_INPUT_CONTROL_SELECTED": {
+      "type": "color",
+      "value": "#5909c4"
+    },
+    "SCROLLBAR_AUTO_THUMB": {
+      "type": "color",
+      "value": "#979BF6"
+    },
+    "TEXT_LINK": {
+      "type": "color",
+      "value": "#D793D5"
+    },
+    "TEXT_NORMAL": {
+      "type": "color",
+      "value": "#E8DAFF"
+    },
+    "TEXT_MUTED": {
+      "type": "color",
+      "value": "#AEA0D8"
+    },
+    "TEXT_SECONDARY": {
+      "type": "color",
+      "value": "#C4B2E9"
+    },
+    "INTERACTIVE_NORMAL": {
+      "type": "color",
+      "value": "#D8C9FF"
+    },
+    "INTERACTIVE_ACTIVE": {
+      "type": "color",
+      "value": "#FFFFFF"
+    },
+    "INTERACTIVE_HOVER": {
+      "type": "color",
+      "value": "#E8DAFF"
+    },
+    "BRAND_EXPERIMENT": {
+      "type": "color",
+      "value": "#634FFF"
+    },
+    "BRAND_NEW": {
+      "type": "color",
+      "value": "#634FFF"
+    },
+    "BUTTON_BACKGROUND": {
+      "type": "color",
+      "value": "#634FFF"
+    },
+    "BG_BACKDROP": {
+      "type": "color",
+      "value": "#040101",
+      "opacity": 0.45
+    }
+  },
+  "raw": {
+    "systemBlueColor": "#634FFF",
+    "systemIndigoColor": "#794EF4",
+    "systemPurpleColor": "#9F80F7"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/refs/heads/main/wp/wp5235979-blue-aesthetic-computer-wallpapers.png",
+    "blur": 0,
+    "opacity": 0.68
+  }
+}
